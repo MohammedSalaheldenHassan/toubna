@@ -1,0 +1,20 @@
+abstract final class AppRoutes {
+  static const splash = '/';
+  static const onboarding = '/onboarding';
+  static const login = '/login';
+  static const register = '/register';
+  static const verifyPhone = '/verify-phone';
+  static const notifications = '/notifications';
+  static const main = '/main';
+  static const product = '/product';
+  static const category = '/category';
+  static const search = '/search';
+  static const myOrders = '/my-orders';
+  static const trackOrder = '/track-order';
+  static const editProfile = '/edit-profile';
+  static const locations = '/locations';
+  static const addressForm = '/address-form';
+  static const favorites = '/favorites';
+  static const contactUs = '/contact-us';
+  static const terms = '/terms';
+}
